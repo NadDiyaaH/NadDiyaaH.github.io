@@ -1,6 +1,5 @@
-Thanks for downloading this template!
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+This is the portfolio of Nur Nadia Hussna bt Kamarizan. Clink link below to explore more about my journey.
+Portfolio URL : https://nudiyaa.me
+Author: Nadia Hussna
+
